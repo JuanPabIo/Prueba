@@ -40,7 +40,7 @@ Pruebas Unitarias
 
 Ejecución del Proyecto
 
-- Clona este repositorio: git clone (https://github.com/Juanpablo068/Prueba-.git)
+- Clona este repositorio: git clone (https://github.com/Juanpablo068/Prueba.git)
 - Instala las dependencias: npm install
 - Ejecuta la aplicación: npm run dev
 
