@@ -1,8 +1,8 @@
-Tienda en Línea Básica - Proyecto para Desarrollador Junior
+#Tienda en Línea Básica - Proyecto para Desarrollador Junior
 
 ¡Bienvenido al proyecto de la Tienda en Línea Básica! Este proyecto ha sido creado como parte de una prueba técnica para desarrolladores junior y tiene como objetivo demostrar habilidades básicas en el desarrollo de aplicaciones web utilizando React.
 
-Funcionalidades
+##Funcionalidades
 
 Navegación de Productos: Los usuarios pueden explorar una lista de productos disponibles.
 
